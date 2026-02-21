@@ -13,3 +13,10 @@ To Do List
 12. Tadarusan
 13. Makan
 14. tidur
+
+
+
+New To do list 
+1. Belajar Git
+2. Belajar Commit
+3. belajar Github
