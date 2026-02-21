@@ -17,6 +17,8 @@ To Do List
 
 
 New To do list 
-1. Belajar Git
-2. Belajar Commit
-3. belajar Github
+1. Bangun tepat waktu
+2. Rapikan tempat tidur
+3. Minum air putih
+4. Sarapan nasi cokot
+5. Susun rencana hari ini
